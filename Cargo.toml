@@ -2,6 +2,13 @@
 name = "simple-elpmpp02"
 version = "0.1.0"
 edition = "2021"
+authors = ["Taewoong Jang"]
+description = "elp/mpp02 implementation"
+readme = "README.md"
+license-file = "LICENSE"
+keywords = ["moon", "elpmpp02", "astronomy"]
+categories = ["science"]
+
 
 [dependencies]
 include-bytes-plus = "1.1.0"
